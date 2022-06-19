@@ -1,0 +1,23 @@
+.bloak,h3{
+display: flex;
+position: relative,fixed;
+margin-top: 50px;
+gap: 20px;
+justify-content: center;
+margin-left: 100px;
+
+}
+.bloak a:hover{
+    color: red;
+}
+.products{
+   display: grid;
+   grid-template-columns: (3);
+   margin-left: 20px;
+   margin: 10px;
+}
+.spe{
+    font-weight: bolder;
+    font-size:100px;
+    color: teal;
+}
